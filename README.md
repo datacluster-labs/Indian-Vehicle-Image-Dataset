@@ -6,11 +6,19 @@ This dataset consists of images of niche Indian Vehicle such as Autorikshaw, Tem
 The dataset consists of niche Indian vehicle images for classification and object detection. It is observed that there is very little or no dataset available on these niche vehicles like autorickshaw, tempo, trucks, etc. The images have been taken in varied weather conditions in daylight, evening, and night. The dataset has a wide variety of variations of illumination, distances, viewpoints, etc. This dataset represents a very challenging set of images of vehicles of niche classes. This dataset can be used for imge recognition and object detection for driver assistance systems, autonomous driving, etc.  
 
 **Vehicle Classes**  
-Indian Auto  
-Indian Truck  
+Autorickshaw  
+Truck 
+Car
+Bus
+Bike
+Bicycle
+Tempo Traveller
+Tractor
+Number Plates
+
 
 **Dataset Features**  
-* Approx. 5000+ unique images for each class 
+* Approx. 7000+ unique images for each class 
 * Captured by 3000+ unique users
 * Captured with 50+ cities across India
 * Captured using mobile phones    
@@ -38,9 +46,9 @@ We provide integrated services for your AI needs:
 
 We deal with all types of multimedia data collection and annotation like images, videos, audio, text and surveys.
 
-**To download full datasets or to submit a request for your dataset needs, please contact **contact@datacluster.in****  
+**To download full datasets or to submit a request for your dataset needs, please contact **sales@datacluster.ai****  
 
-To download the full datasets, please contact [contact@datacluster.in](contact@datacluster.in).  
+To download the full datasets, please contact [sales@datacluster.ai](sales@datacluster.ai).  
 Visit [www.datacluster.in](www.datacluster.in) to know more.
     
 
